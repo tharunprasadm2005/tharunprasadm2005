@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tharun%20Prasad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Tharun%20Prasad&fontSize=40&color=0:0A66C2,100:00C9A7&fontColor=ffffff" width="100%"/>
 
 # Hi, I'm Tharun Prasad 👋
 
@@ -31,7 +31,6 @@
 📊  Built real-time dashboards & ML-based prediction systems with Power BI & Python
 🏢  ML Intern @ Frenzo Technologies — built supervised models end-to-end with Python & scikit-learn
 🎯  Actively seeking SDE / Full Stack Developer / Data Analyst roles
-📍  Chennai, Tamil Nadu, India
 ```
 
 ---
@@ -148,8 +147,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tharunprasadm2005&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunprasadm2005&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tharunprasadm2005&show_icons=true" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tharunprasadm2005&layout=compact" height="160"/>
 
 </div>
 
@@ -173,9 +172,9 @@
 |---|---|---|
 | Adobe Workfront Foundations | Adobe | 2025 |
 | Generative AI Certification | PrepInsta | 2026 |
-| React & Cloud Applications | PrepInsta / Oracle | — |
-| Oracle Certified Foundations Associate | Oracle | — |
-| Mastering IoT with Arduino | Infosys Springboard | — |
+| React & Cloud Applications | PrepInsta / Oracle | 2025 |
+| Oracle Certified Foundations Associate | Oracle | 2025 |
+| Mastering IoT with Arduino | Infosys Springboard | 2024 |
 
 ---
 
