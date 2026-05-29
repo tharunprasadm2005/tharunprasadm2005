@@ -88,6 +88,10 @@
         <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white"/>
       </p>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/tharunprasadm2005/bus-route-system/main/assets/images/dashboard.png" width="48%"/>
+        <img src="https://raw.githubusercontent.com/tharunprasadm2005/bus-route-system/main/assets/images/driver.png" width="48%"/>
+      </p>
       <a href="https://github.com/tharunprasadm2005/bus-route-system">View Project →</a>
     </td>
     <td width="50%" valign="top">
