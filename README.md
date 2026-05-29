@@ -71,6 +71,10 @@
         <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white"/>
       </p>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/tharunprasadm2005/food-waste-ai/main/assets/images/index.png" width="48%" alt="Prediction Form"/>
+        <img src="https://raw.githubusercontent.com/tharunprasadm2005/food-waste-ai/main/assets/images/result.png" width="48%" alt="Prediction Result"/>
+      </p>
       <a href="https://github.com/tharunprasadm2005/food-waste-ai">View Project →</a>
     </td>
   </tr>
