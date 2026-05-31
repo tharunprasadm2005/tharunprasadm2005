@@ -7,15 +7,21 @@
 ### 💻 Full-Stack Developer (MERN) &nbsp;|&nbsp; 🤖 AI & Data Science Graduate &nbsp;|&nbsp; 📊 Data Analyst
 
 <p align="center">
-  <a href="https://linkedin.com/in/tharun-prasad-493a6525a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tharunprasadm2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Tharun_1207/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+ <a href="https://linkedin.com/in/tharun-prasad-493a6525a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tharunprasadm2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Tharun_1207/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://tharun-prasad.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00B37A?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
 </p>
 
 </div>
