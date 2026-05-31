@@ -54,7 +54,7 @@
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
       </p>
-      <a href="https://github.com/tharunprasadm2005/vellora-ecommerce">View Project →</a>
+      <a href="https://github.com/tharunprasadm2005/vellora">View Project →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 AI Food Waste Prediction System</h3>
