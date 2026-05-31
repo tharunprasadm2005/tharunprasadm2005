@@ -55,8 +55,8 @@
         <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
       </p>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/tharunprasadm2005/vellora/blob/main/assets/images/vellora.png" width="48%"/>
-        <img src="https://raw.githubusercontent.com/tharunprasadm2005/vellora/blob/main/assets/images/product%20details.png" width="48%"/>
+        <img src="https://raw.githubusercontent.com/tharunprasadm2005/vellora/main/assets/images/vellora.png" width="48%"/>
+        <img src="https://raw.githubusercontent.com/tharunprasadm2005/vellora/main/assets/images/product%20details.png" width="48%"/>
       </p>
       <a href="https://github.com/tharunprasadm2005/vellora">View Project →</a>
     </td>
