@@ -4,7 +4,7 @@
 
 # Hi, I'm Tharun Prasad 👋
 
-### 💻 Full-Stack Developer (MERN) &nbsp;|&nbsp; 🤖 AI & Data Science Graduate &nbsp;|&nbsp; 📊 Data Analyst
+### 💻 Full Stack & AI Developer &nbsp;|&nbsp; 🚀 Building AI-Powered SaaS & Enterprise Applications &nbsp;|&nbsp; 🎓 AI & Data Science Graduate
 
 <p align="center">
  <a href="https://linkedin.com/in/tharun-prasad-493a6525a">
@@ -31,19 +31,55 @@
 ## 👨‍💻 About Me
 
 ```txt
-🎓  B.Tech — Artificial Intelligence & Data Science | Dr. MCET, Pollachi | CGPA: 7.9
-💻  Full-Stack Developer skilled in MERN Stack (MongoDB, Express, React, Node.js)
-🤖  Passionate about Machine Learning, Data Analytics & Intelligent Systems
-📊  Built real-time dashboards & ML-based prediction systems with Power BI & Python
-🏢  ML Intern @ Frenzo Technologies — built supervised models end-to-end with Python & scikit-learn
-🎯  Actively seeking SDE / Full Stack Developer / Data Analyst roles
+🎓 B.Tech — Artificial Intelligence & Data Science | Dr. MCET, Pollachi | CGPA: 7.9
+💻 Software Engineer focused on Full-Stack Development, Backend Engineering & AI-powered Applications
+🚀 Built production-ready SaaS platforms, enterprise fleet management systems, and scalable web applications
+⚙️ Experienced with React, Next.js, Flask, TypeScript, PostgreSQL, REST APIs, JWT & OAuth 2.0
+🤖 Building AI-powered solutions using LLM Integration, OpenRouter, Ollama & Prompt Engineering
+☁️ Passionate about scalable software architecture, cloud deployment, and modern engineering practices
+🎯 Open to Software Engineer, Full Stack Developer, Backend Developer & AI Engineer opportunities
 ```
-
 ---
 
 ## 🚀 Featured Projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Foundesk – AI Workspace for Founders</h3>
+      <p>AI-powered SaaS platform that unifies 17+ business applications into one intelligent workspace.</p>
+      <ul>
+        <li>OAuth 2.0 integrations with Google, GitHub, Slack, Notion, Trello, Linear and more</li>
+        <li>Unified Activity Feed aggregating cross-platform business events</li>
+        <li>AI Decision Dashboard with LLM-powered insights</li>
+        <li>Flask + PostgreSQL backend with OpenRouter & Ollama integration</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=flat"/>
+      </p>
+      <a href="https://github.com/tharunprasadm2005/FounDesk">View Project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚚 Transiq – Intelligent Fleet Operations Platform</h3>
+      <p>Enterprise fleet management platform built with modern full-stack architecture and AI-assisted operations.</p>
+      <ul>
+        <li>Fleet management across vehicles, drivers, routes, trips, maintenance and fuel</li>
+        <li>JWT Authentication with Role-Based Access Control (RBAC)</li>
+        <li>AI-powered assistant, reporting dashboard and analytics</li>
+        <li>Next.js, Prisma ORM and PostgreSQL backend architecture</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
+      </p>
+      <a href="https://github.com/tharunprasadm2005/Transiq">View Project →</a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 Vellora – MERN E-Commerce Platform</h3>
@@ -109,11 +145,13 @@
       <a href="https://github.com/tharunprasadm2005/bus-route-system">View Project →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>💡 More coming soon...</h3>
-      <p>Always building. Check back for new projects in full-stack development, AI, and data analytics.</p>
+      <h3>💡 More projects coming soon...</h3>
+      <p>Currently building production-grade SaaS platforms, enterprise software, AI applications, and open-source tools.</p>
     </td>
   </tr>
 </table>
+
+---
 
 ---
 
@@ -128,36 +166,47 @@
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth_2.0](https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge)
 
 **Database**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**Data Analytics & ML**
+**AI / Machine Learning**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-7C3AED?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
 **Tools**
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -200,8 +249,8 @@
 
 <div align="center">
 
-I'm open to full-time **SDE**, **Full Stack Developer**, and **Data Analyst** roles, collaborations, and interesting projects.
-Feel free to reach out — let's build something great together! 🚀
+I'm open to Software Engineer, Full Stack Developer, Backend Developer, and AI Engineer opportunities.
+I'm always happy to collaborate on enterprise software, SaaS products, AI applications, and open-source projects.
 
 **tharunprasadm2005@gmail.com**
 
